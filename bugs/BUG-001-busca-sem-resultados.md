@@ -36,3 +36,15 @@ Nenhuma evidência real disponível. Cenário criado para treinamento.
 
 Ambiente:
 Não aplicável — não executado em aplicação real.
+
+Caso de teste relacionado
+
+ID: CT-004
+
+Requisito relacionado: REQ-002
+
+Resultado no cenário simulado: Fail
+
+Status da execução real: Não executado
+
+Justificativa: No cenário hipotético, a página fica em branco quando a pesquisa não encontra resultados, contrariando o comportamento esperado de exibir uma mensagem informativa.
