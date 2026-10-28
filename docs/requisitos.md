@@ -70,7 +70,8 @@ Também serão considerados os comportamentos para pesquisas sem resultados e pa
 
 **Critérios de aceitação:**
 - CA-003.1: Dado que o catálogo esteja visível, quando o usuário tentar pesquisar sem informar um termo, então uma pesquisa não deverá ser executada e o catálogo deverá permanecer visível.
-- CA-003.2: Dado que o usuário tenha realizado uma pesquisa anteriormente, quando apagar o termo e tentar pesquisar novamente, então o sistema deverá retornar ao estado de catálogo visível, sem apresentar uma pesquisa vazia.
+- CA-003.2: Dado que o usuário tenha realizado uma pesquisa anteriormente, quando limpar completamente o campo de busca, então o sistema deverá voltar a exibir todos os materiais disponíveis no catálogo.
+
 
 ## 4. Requisitos não funcionais e aspectos transversais
 
