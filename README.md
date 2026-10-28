@@ -1,4 +1,4 @@
-# EduMaterial QA Portfolio
+# EduMaterial
 
 Projeto de portfólio voltado à prática de **Quality Assurance (QA)**, utilizando o EduMaterial como estudo de caso para análise de requisitos, planejamento de testes manuais, identificação de defeitos e documentação de resultados.
 
